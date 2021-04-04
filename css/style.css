@@ -73,7 +73,7 @@ pre {
 }
 
 .navbar h1 a:hover {
-  border-bottom: none;
+  border: none;
 }
 
 .navbar .flex {
