@@ -115,7 +115,7 @@ pre {
   position: relative;
   top: 60px;
   height: 350px;
-  width: 400px;
+  width: 100%;
   padding: 40px;
   z-index: 100;
   justify-self: flex-end;
